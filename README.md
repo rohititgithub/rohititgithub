@@ -175,7 +175,7 @@ Modern MERN commerce platform with authentication and payment integration.
 
 **Inglu Global**
 
-**2026 – Present**
+**12 Jan. 2026 – 11 Jun. 2026**
 
 Responsible for developing scalable web applications, REST APIs, frontend modules, and production-ready features.
 
