@@ -277,18 +277,15 @@ Responsible for developing scalable web applications, REST APIs, frontend module
 # GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rohititgithub&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 # Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+[
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>](https://github-readme-activity-graph.vercel.app/graph?username=rohititgithub&theme=tokyo-night)](https://github-readme-activity-graph.vercel.app/graph?username=rohititgithub&theme=tokyo-night)
 
 </p>
 
