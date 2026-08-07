@@ -1,38 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=Rohit%20Kumar&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Backend%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
+# Rohit Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Backend+Developer;Full+Stack+Engineer;Node.js+%7C+Express.js+%7C+MongoDB;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Products"/>
-
-<p>
-<img src="https://img.shields.io/badge/B.Tech-CSE-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Full%20Time-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-India-8B5CF6?style=for-the-badge"/>
-</p>
+### Backend Engineer • MERN Stack Developer • AI Enthusiast
 
 <p>
-<a href="https://rohit-myportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://github.com/rohititgithub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://rohit-myportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6C63FF"/>
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER&style=for-the-badge"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=rohititgithub&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -40,132 +20,57 @@
 
 # About Me
 
-I'm a **Backend & Full Stack Software Engineer** passionate about designing scalable systems, modern web applications, and developer-focused products.
+I'm a **Backend-focused Full Stack Developer** passionate about building scalable web applications, REST APIs, and modern software products.
 
-My primary expertise lies in building secure REST APIs, distributed backend services, and responsive frontend experiences using modern JavaScript technologies.
+Currently working on production-level MERN applications while continuously improving my knowledge of backend architecture, cloud technologies, and AI-powered solutions.
 
-### What I Focus On
+## What I Do
 
-- Backend Engineering
-- Full Stack Development
-- API Architecture
-- AI-powered Applications
-- Cloud-native Development
-- Product Engineering
+- Backend Development
+- REST API Development
+- Full Stack Web Applications
+- Database Design
+- Authentication & Authorization
 - Performance Optimization
 - Clean Architecture
-
-### Open To
-
-- Backend Engineer
-- Full Stack Developer
-- Software Engineer
-- Open Source Collaboration
-- AI Product Development
+- AI API Integrations
 
 ---
 
 # Tech Stack
 
-### Languages
+## Languages
 
-<p>
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c"/>
+## Frontend
 
-</p>
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### Frontend
+## Backend
 
-<p>
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux"/>
+## Database
 
-</p>
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### Backend & Database
+## Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-
-</p>
-
-### Cloud • DevOps • Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,linux"/>
-
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Level | Details |
-|---------|------|----------|
-| Machine Learning | Intermediate | Model development & preprocessing |
-| Generative AI | Intermediate | OpenAI APIs, AI integrations |
-| NLP | Intermediate | Prompt Engineering |
-| Backend AI Systems | Advanced | AI APIs with Node.js |
-| Data Processing | Intermediate | Python, Pandas |
-
----
-
-# Featured Projects
-
-<details>
-
-<summary><b>Portfolio Website</b></summary>
-
-Professional portfolio showcasing projects, skills and experience.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Next.js, TypeScript, Tailwind |
-| Performance | Lighthouse Optimized |
-| Security | HTTPS |
-| Impact | Personal Branding |
-| Repository | https://github.com/yourusername |
-
-</details>
-
----
-
-<details>
-
-<summary><b>Student Management System</b></summary>
-
-CRUD application for student record management.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Node.js, Express, MongoDB |
-| Scale | Multi-user |
-| Security | JWT |
-| Performance | Optimized APIs |
-| Repository | https://github.com/yourusername |
-
-</details>
-
----
-
-<details>
-
-<summary><b>E-Commerce Platform</b></summary>
-
-Modern MERN commerce platform with authentication and payment integration.
-
-| Category | Details |
-|-----------|----------|
-| Stack | React, Node.js, MongoDB |
-| Scale | Enterprise Ready |
-| Security | JWT, Bcrypt |
-| Performance | Optimized Queries |
-| Repository | https://github.com/yourusername |
-
-</details>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ---
 
@@ -173,102 +78,108 @@ Modern MERN commerce platform with authentication and payment integration.
 
 ## MERN Stack Developer
 
-**Inglu Global**
+### Inglu Global
 
 **2026 – Present**
 
-Responsible for developing scalable web applications, REST APIs, frontend modules, and production-ready features.
+Working on enterprise-grade web applications using the MERN stack.
 
 ### Responsibilities
 
-- Backend API Development
-- MongoDB Database Design
-- React Development
-- Authentication
+- REST API Development
+- MongoDB Schema Design
 - Dashboard Development
+- Authentication
+- Bug Fixes
 - Performance Optimization
-- Bug Fixing
-- Feature Implementation
-
-**Skills**
-
-`Node.js`
-`Express`
-`MongoDB`
-`React`
-`Next.js`
-`Git`
+- Feature Development
+- Git Collaboration
 
 ---
 
-# Achievements
+# Featured Projects
 
-| Recognition | Details |
-|-------------|----------|
-| B.Tech Graduate | Computer Science Engineering |
-| MERN Developer | Production Projects |
-| Full Stack Engineer | Modern Web Development |
-| Continuous Learner | AI & Backend Systems |
+## 1. Inglu Official Website
 
----
+Production-ready website built using the MERN Stack.
 
-# Certifications
-
-### AWS
-
-![](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Java-red?style=for-the-badge&logo=oracle)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Courses-success?style=for-the-badge)
+| Category | Details |
+|----------|---------|
+| Stack | React, Node.js, Express, MongoDB |
+| Security | JWT Authentication |
+| Performance | Optimized APIs |
+| Type | Production |
 
 ---
 
-# Coding Profiles
+## 2. Portfolio Website
 
-<p>
+Modern responsive developer portfolio.
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
+| Category | Details |
+|----------|---------|
+| Stack | Next.js, Tailwind CSS |
+| Features | Responsive, SEO Friendly |
+| Deployment | Netlify |
 
 ---
 
-# GitHub Analytics
+## 3. Student Management System
+
+CRUD application for managing student records.
+
+| Category | Details |
+|----------|---------|
+| Stack | Node.js, Express, MongoDB |
+| Features | CRUD, Authentication |
+
+---
+
+## 4. Fanta Animation Website
+
+Creative landing page built using GSAP.
+
+| Category | Details |
+|----------|---------|
+| Stack | HTML, CSS, JavaScript |
+| Library | GSAP |
+
+---
+
+# AI Learning
+
+| Domain | Status |
+|---------|--------|
+| Prompt Engineering | Learning |
+| AI API Integration | Learning |
+| OpenAI APIs | Learning |
+| Backend AI Apps | Learning |
+
+---
+
+# GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohititgithub&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohititgithub&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohititgithub&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohititgithub&theme=tokyo-night"/>
 
 </p>
 
@@ -278,85 +189,60 @@ Responsible for developing scalable web applications, REST APIs, frontend module
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rohititgithub&theme=tokyonight&margin-w=15"/>
 
 </p>
 
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohititgithub/rohititgithub/output/github-snake-dark.svg" alt="Snake Animation" />
-</p>
 ---
 
 # Current Focus
 
 ```yaml
-Learning:
+learning:
   - System Design
-  - Cloud Architecture
+  - Microservices
+  - AWS
+  - Docker
   - AI Engineering
 
-Building:
-  - Full Stack Applications
-  - REST APIs
-  - AI-powered Products
+building:
+  - Production MERN Applications
+  - Scalable REST APIs
+  - Full Stack Products
 
-Exploring:
+exploring:
   - Kubernetes
-  - Microservices
   - DevOps
+  - Cloud Computing
 
-Open To:
-  - Backend Engineering
-  - Full Stack Development
-  - Open Source
+open_to:
+  - Backend Developer
+  - Full Stack Developer
+  - Software Engineer
 ```
+
+---
+
+# Coding Profiles
+
+- LeetCode: https://leetcode.com/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
+- HackerRank: https://www.hackerrank.com/
+- CodeChef: https://www.codechef.com/
 
 ---
 
 # Connect With Me
 
-<p align="center">
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://rohit-myportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 🌐 Portfolio: https://rohit-myportfolio.netlify.app
+- 🐙 GitHub: https://github.com/rohititgithub
 
 ---
 
 <div align="center">
 
-### *"Building scalable software that creates real-world impact."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=6C63FF"/>
+### "Building scalable software with clean architecture and meaningful user experiences."
 
 </div>
