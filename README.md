@@ -198,7 +198,7 @@ Responsible for developing scalable web applications, REST APIs, frontend module
 `React`
 `Next.js`
 `Git`
-
+`TypeScript`
 ---
 
 # Achievements
