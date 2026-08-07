@@ -343,7 +343,7 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href=""https://rohit-portfolio-tech.netlify.app/">
+<a href="https://rohit-portfolio-tech.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
