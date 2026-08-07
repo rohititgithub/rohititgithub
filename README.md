@@ -282,13 +282,9 @@ Responsible for developing scalable web applications, REST APIs, frontend module
 ---
 
 # Contribution Activity
-
 <p align="center">
-[
-[<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>](https://github-readme-activity-graph.vercel.app/graph?username=rohititgithub&theme=tokyo-night)](https://github-readme-activity-graph.vercel.app/graph?username=rohititgithub&theme=tokyo-night)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohititgithub&theme=tokyo-night" alt="Contribution Graph" />
 </p>
-
 ---
 
 # Contribution Snake
