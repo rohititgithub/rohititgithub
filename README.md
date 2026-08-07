@@ -296,12 +296,11 @@ Responsible for developing scalable web applications, REST APIs, frontend module
 
 # Contribution Snake
 
+<h2 align="center">Contribution Snake</h2>
+
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/rohititgithub/rohititgithub/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
-
 ---
 
 # Current Focus
