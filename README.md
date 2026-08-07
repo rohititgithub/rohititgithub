@@ -1,248 +1,143 @@
-<div align="center">
+About Me
+
+I'm Rohit Kumar, a Backend-focused Full Stack Developer with hands-on experience building scalable web applications using the MERN Stack. I enjoy designing clean backend architectures, developing secure REST APIs, and creating responsive user interfaces that solve real-world problems.
+
+Currently, I'm working on production-level applications while continuously improving my knowledge of System Design, Cloud Computing, AI-powered applications, and scalable software engineering.
+
+I believe in writing clean, maintainable code and building products that provide real value to users.
+
+What I Focus On
+REST API Development
+Backend Engineering (Node.js & Express.js)
+Full Stack Development (MERN)
+MongoDB Database Design
+Authentication & Authorization
+Performance Optimization
+Responsive UI Development
+AI API Integration
+Software Architecture
+Clean Code & Best Practices
+Open To
+Backend Developer
+Full Stack Developer
+Software Engineer
+Product Engineering
+Open Source Contributions
+Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=js,ts,java,python"/> </p>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux"/> </p>
+Backend & Database
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/> </p>
+Cloud • DevOps • Tools
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,linux"/> </p>
+AI / Backend Expertise
+Domain	Proficiency	Details
+REST API Development	Advanced	Production-ready APIs using Express.js
+Backend Architecture	Advanced	Modular backend design & scalable applications
+Authentication	Advanced	JWT Authentication & Authorization
+Database Design	Advanced	MongoDB Schema Design & Aggregation
+AI API Integration	Intermediate	AI-powered backend services
+Prompt Engineering	Intermediate	LLM integrations
+Performance Optimization	Intermediate	API optimization & database indexing
+Cloud Fundamentals	Intermediate	AWS EC2, VPC, RDS & Deployment
+Featured Projects
+<details> <summary><b>🚀 Inglu Official Website</b></summary>
+
+Production-level MERN application developed as part of my work at Inglu Global.
+
+Category	Details
+Stack	React, Node.js, Express.js, MongoDB
+Scale	Enterprise
+Performance	Optimized APIs & Database Queries
+Security	JWT Authentication
+Impact	Production Application
+Repository	Private Repository
+
+Highlights
+
+Developed scalable backend APIs
+Implemented authentication & authorization
+Built reusable frontend components
+Optimized MongoDB queries
+Git-based collaborative development
+</details>
+<details> <summary><b>💼 Personal Portfolio</b></summary>
+
+Professional portfolio showcasing projects, skills, certifications, and experience.
+
+Category	Details
+Stack	Next.js, TypeScript, Tailwind CSS
+Performance	Lighthouse Optimized
+Security	HTTPS
+Impact	Personal Branding
+Repository	https://github.com/rohititgithub
+</details>
+<details> <summary><b>🎓 Student Management System</b></summary>
+
+A full-stack CRUD application for efficiently managing student records.
+
+Category	Details
+Stack	Node.js, Express.js, MongoDB
+Scale	Multi-user
+Security	JWT
+Performance	Optimized CRUD Operations
+Repository	https://github.com/rohititgithub
+</details>
+<details> <summary><b>🥤 Fanta Animation Landing Page</b></summary>
+
+Interactive animated landing page using GSAP.
+
+Category	Details
+Stack	HTML, CSS, JavaScript
+Animation	GSAP
+Performance	Responsive
+Repository	https://github.com/rohititgithub/Fanta-Animation-web-page
+</details>
+Experience
+MERN Stack Developer
+Inglu Global
+
+January 2026 – Present
 
-# Rohit Kumar
+Working as a MERN Stack Developer, contributing to production-level web applications with a focus on scalable backend systems and modern frontend experiences.
 
-### Backend Engineer • MERN Stack Developer • AI Enthusiast
+Responsibilities
+Developed scalable REST APIs
+Built backend modules using Node.js & Express.js
+Designed MongoDB database schemas
+Developed React & Next.js frontend components
+Implemented JWT authentication
+Fixed production bugs
+Optimized application performance
+Collaborated using Git & GitHub
+Participated in feature planning & implementation
 
-<p>
-<a href="https://github.com/rohititgithub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://rohit-myportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+Tech Stack
 
-</p>
+Node.js Express.js MongoDB React.js Next.js Tailwind CSS Git GitHub
 
-<img src="https://komarev.com/ghpvc/?username=rohititgithub&style=for-the-badge&color=blueviolet"/>
+Achievements
+Recognition	Details
+🎓 B.Tech CSE	NIMS University
+💼 MERN Stack Developer	Inglu Global
+🚀 Production Experience	Enterprise Web Applications
+🌱 Continuous Learner	Backend Engineering & AI
+💻 Open Source Enthusiast	GitHub Projects
+Certifications
+AWS
 
-</div>
+Cloud Practitioner • EC2 • VPC • RDS • IAM
 
----
+Oracle
 
-# About Me
+Java Programming
 
-I'm a **Backend-focused Full Stack Developer** passionate about building scalable web applications, REST APIs, and modern software products.
+Cisco
 
-Currently working on production-level MERN applications while continuously improving my knowledge of backend architecture, cloud technologies, and AI-powered solutions.
+Networking Fundamentals
 
-## What I Do
+NPTEL
 
-- Backend Development
-- REST API Development
-- Full Stack Web Applications
-- Database Design
-- Authentication & Authorization
-- Performance Optimization
-- Clean Architecture
-- AI API Integrations
-
----
-
-# Tech Stack
-
-## Languages
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-
-## Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-## Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-## Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-## Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![AWS](https://skillicons.dev/icons?i=aws)
-
----
-
-# Experience
-
-## MERN Stack Developer
-
-### Inglu Global
-
-**2026 – Present**
-
-Working on enterprise-grade web applications using the MERN stack.
-
-### Responsibilities
-
-- REST API Development
-- MongoDB Schema Design
-- Dashboard Development
-- Authentication
-- Bug Fixes
-- Performance Optimization
-- Feature Development
-- Git Collaboration
-
----
-
-# Featured Projects
-
-## 1. Inglu Official Website
-
-Production-ready website built using the MERN Stack.
-
-| Category | Details |
-|----------|---------|
-| Stack | React, Node.js, Express, MongoDB |
-| Security | JWT Authentication |
-| Performance | Optimized APIs |
-| Type | Production |
-
----
-
-## 2. Portfolio Website
-
-Modern responsive developer portfolio.
-
-| Category | Details |
-|----------|---------|
-| Stack | Next.js, Tailwind CSS |
-| Features | Responsive, SEO Friendly |
-| Deployment | Netlify |
-
----
-
-## 3. Student Management System
-
-CRUD application for managing student records.
-
-| Category | Details |
-|----------|---------|
-| Stack | Node.js, Express, MongoDB |
-| Features | CRUD, Authentication |
-
----
-
-## 4. Fanta Animation Website
-
-Creative landing page built using GSAP.
-
-| Category | Details |
-|----------|---------|
-| Stack | HTML, CSS, JavaScript |
-| Library | GSAP |
-
----
-
-# AI Learning
-
-| Domain | Status |
-|---------|--------|
-| Prompt Engineering | Learning |
-| AI API Integration | Learning |
-| OpenAI APIs | Learning |
-| Backend AI Apps | Learning |
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohititgithub&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohititgithub&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohititgithub&theme=tokyonight"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohititgithub&theme=tokyo-night"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohititgithub&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - System Design
-  - Microservices
-  - AWS
-  - Docker
-  - AI Engineering
-
-building:
-  - Production MERN Applications
-  - Scalable REST APIs
-  - Full Stack Products
-
-exploring:
-  - Kubernetes
-  - DevOps
-  - Cloud Computing
-
-open_to:
-  - Backend Developer
-  - Full Stack Developer
-  - Software Engineer
-```
-
----
-
-# Coding Profiles
-
-- LeetCode: https://leetcode.com/
-- GeeksforGeeks: https://www.geeksforgeeks.org/
-- HackerRank: https://www.hackerrank.com/
-- CodeChef: https://www.codechef.com/
-
----
-
-# Connect With Me
-
-- 📧 Email: YOUR_EMAIL
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌐 Portfolio: https://rohit-myportfolio.netlify.app
-- 🐙 GitHub: https://github.com/rohititgithub
-
----
-
-<div align="center">
-
-### "Building scalable software with clean architecture and meaningful user experiences."
-
-</div>
+Programming & Computer Science Courses
